@@ -1,34 +1,34 @@
 [[Tokei]]
 arch = "x86_64"
-git-tree-sha1 = "27c9d1b9340ee8172c7bca38de97932b2940cceb"
+git-tree-sha1 = "eedd0fdd25899353f827bb0897a66690b8527b74"
 os = "macos"
 
     [[Tokei.download]]
-    sha256 = "bec8d5d0d122c718fc2d0a5f2069959d56ba47310d07a9f3f73d2cf4266be916"
-    url = "https://github.com/JuliaBinaryWrappers/Tokei_jll.jl/releases/download/Tokei-v12.1.2+0/Tokei.v12.1.2.x86_64-apple-darwin.tar.gz"
+    sha256 = "145832de7b0bbce046dce6d1d4c0a272365f8f57cb07a60f440b4b033afb5311"
+    url = "https://github.com/JuliaBinaryWrappers/Tokei_jll.jl/releases/download/Tokei-v12.1.2+1/Tokei.v12.1.2.x86_64-apple-darwin.tar.gz"
 [[Tokei]]
 arch = "x86_64"
-git-tree-sha1 = "eb1ea0844d13d34320da40c8b1658114d5f38dff"
+git-tree-sha1 = "f9f50b6cc8f353be5a1365f6ec6811afbc2f1edb"
 libc = "glibc"
 os = "linux"
 
     [[Tokei.download]]
-    sha256 = "22a74595f2198c40b3dbe06e1f9abcd69834a9bfa0457808f7d8873fe4f402dd"
-    url = "https://github.com/JuliaBinaryWrappers/Tokei_jll.jl/releases/download/Tokei-v12.1.2+0/Tokei.v12.1.2.x86_64-linux-gnu.tar.gz"
+    sha256 = "dd9672f2727e9a93dbaa2951a715a2c109976dce2b6b01b29e4ef29db8b778dc"
+    url = "https://github.com/JuliaBinaryWrappers/Tokei_jll.jl/releases/download/Tokei-v12.1.2+1/Tokei.v12.1.2.x86_64-linux-gnu.tar.gz"
 [[Tokei]]
 arch = "x86_64"
-git-tree-sha1 = "29a557e2d24a3e51a89a91acc1cecd70c490c6fb"
+git-tree-sha1 = "5df61afcc906328b0c16488b06899b5bed06e31c"
 libc = "musl"
 os = "linux"
 
     [[Tokei.download]]
-    sha256 = "dd76cdfb6edfcf094fcdedb3c447c9df15c0bbbe475fe2e3cd2801a8f10ec300"
-    url = "https://github.com/JuliaBinaryWrappers/Tokei_jll.jl/releases/download/Tokei-v12.1.2+0/Tokei.v12.1.2.x86_64-linux-musl.tar.gz"
+    sha256 = "506ae2e2affb556febf7d0c1b0b80cf8dd28513ee9ef34805a05b4bdd68a353b"
+    url = "https://github.com/JuliaBinaryWrappers/Tokei_jll.jl/releases/download/Tokei-v12.1.2+1/Tokei.v12.1.2.x86_64-linux-musl.tar.gz"
 [[Tokei]]
 arch = "x86_64"
-git-tree-sha1 = "661cda8f23c34e3a64f69065b4ba9566f941da7d"
+git-tree-sha1 = "4a4154337d6b6e1a53a646c0e82eb48d892cf01e"
 os = "windows"
 
     [[Tokei.download]]
-    sha256 = "0463830dcdbaf1608669968646bbec153c1b1379cacf1b6bbeae7229f926b8de"
-    url = "https://github.com/JuliaBinaryWrappers/Tokei_jll.jl/releases/download/Tokei-v12.1.2+0/Tokei.v12.1.2.x86_64-w64-mingw32.tar.gz"
+    sha256 = "01e231599da150f64754df92419feef5790f4f068c2597273eb548070bd7e40f"
+    url = "https://github.com/JuliaBinaryWrappers/Tokei_jll.jl/releases/download/Tokei-v12.1.2+1/Tokei.v12.1.2.x86_64-w64-mingw32.tar.gz"
