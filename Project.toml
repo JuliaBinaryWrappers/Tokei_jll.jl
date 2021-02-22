@@ -1,6 +1,6 @@
 name = "Tokei_jll"
 uuid = "3ac119c9-1236-5556-b556-adc8150b0244"
-version = "12.1.2+1"
+version = "12.1.2+2"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
